@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BuildInStats_Test.php" server="111.171.219.246" local="130813109253167522" remote="130814025000000000" Dst="0" />
+<file name="CFDBErrorLogTest.php" server="111.171.219.246" local="130813109254017571" remote="130814025000000000" Dst="0" />
+<file name="CFDBFilterParserTest.php" server="111.171.219.246" local="130813109255137635" remote="130814025000000000" Dst="0" />
+<file name="CFDBIntegrationCalderaFormsTest.php" server="111.171.219.246" local="130813109255927680" remote="130814025000000000" Dst="0" />
+<file name="CFDBIntegrationWRContactFormTest.php" server="111.171.219.246" local="130813109258427823" remote="130814025000000000" Dst="0" />
+<file name="CFDBPermittedFunctionsTest.php" server="111.171.219.246" local="130813109258547830" remote="130814025000000000" Dst="0" />
+<file name="CFDBShortCodeContentParserTest.php" server="111.171.219.246" local="130813109259497884" remote="130814025000000000" Dst="0" />
+<file name="CFDBTransformParserTest.php" server="111.171.219.246" local="130813109259537886" remote="130814025000000000" Dst="0" />
+<file name="DereferenceShortcodeVarsTest.php" server="111.171.219.246" local="130813109259657893" remote="130814025000000000" Dst="0" />
+<file name="DereferenceShortcodeVars_ExportTest.php" server="111.171.219.246" local="130813109260377935" remote="130814025000000000" Dst="0" />
+<file name="HtmlTemplateMissingFieldTest.json" server="111.171.219.246" local="130813109260417937" remote="130814025000000000" Dst="0" />
+<file name="HtmlTemplateMissingFieldTest.php" server="111.171.219.246" local="130813109260487941" remote="130814025000000000" Dst="0" />
+<file name="HtmlTemplateTransformTest.json" server="111.171.219.246" local="130813109261117977" remote="130814025000000000" Dst="0" />
+<file name="HtmlTemplateTransformTest.php" server="111.171.219.246" local="130813109261137978" remote="130814025000000000" Dst="0" />
+<file name="MockQueryResultIterator.php" server="111.171.219.246" local="130813109261247984" remote="130814025000000000" Dst="0" />
+<file name="ShortCodeBeforeAfterTest.php" server="111.171.219.246" local="130813109262048030" remote="130814025000000000" Dst="0" />
+<file name="SortByDateFieldTest.php" server="111.171.219.246" local="130813109262078032" remote="130814025000000000" Dst="0" />
+<file name="SortByDateField_TransformTest.php" server="111.171.219.246" local="130813109262188038" remote="130814025000000000" Dst="0" />
+<file name="TransformEntryFunctionTest.json" server="111.171.219.246" local="130813109263058088" remote="130814025000000000" Dst="0" />
+<file name="TransformEntryFunctionTest.php" server="111.171.219.246" local="130813109263158094" remote="130814025000000000" Dst="0" />
+<file name="TransformsTest.json" server="111.171.219.246" local="130813109263208096" remote="130814025000000000" Dst="0" />
+<file name="TransformsTest.php" server="111.171.219.246" local="130813109264218154" remote="130814025000000000" Dst="0" />
+<file name="UnCurlyQuoteTest.php" server="111.171.219.246" local="130813109264258156" remote="130814025000000000" Dst="0" />
+<file name="WPDB_Mock.php" server="111.171.219.246" local="130813109264328160" remote="130814025000000000" Dst="0" />
+<file name="WP_Mock_Functions.php" server="111.171.219.246" local="130813109265198210" remote="130814025000000000" Dst="0" />
+<file name="phpunit.xml" server="111.171.219.246" local="130813109265948253" remote="130814025000000000" Dst="0" />
+<file name="scores.json" server="111.171.219.246" local="130813109265988255" remote="130814025000000000" Dst="0" />
+</dwsync>

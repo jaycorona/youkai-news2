@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.akismet.php" server="111.171.219.246" local="130813109717794097" remote="130814025600000000" Dst="0" />
+<file name="class.alpha.php" server="111.171.219.246" local="130813109717834099" remote="130814025600000000" Dst="0" />
+<file name="class.alphanumeric.php" server="111.171.219.246" local="130813109718524139" remote="130814025600000000" Dst="0" />
+<file name="class.between.php" server="111.171.219.246" local="130813109718564141" remote="130814025600000000" Dst="0" />
+<file name="class.date.php" server="111.171.219.246" local="130813109718654146" remote="130814025600000000" Dst="0" />
+<file name="class.eq.php" server="111.171.219.246" local="130813109719314184" remote="130814025600000000" Dst="0" />
+<file name="class.filesize.php" server="111.171.219.246" local="130813109719354186" remote="130814025600000000" Dst="0" />
+<file name="class.filetype.php" server="111.171.219.246" local="130813109719444192" remote="130814025600000000" Dst="0" />
+<file name="class.hiragana.php" server="111.171.219.246" local="130813109720104229" remote="130814025600000000" Dst="0" />
+<file name="class.in.php" server="111.171.219.246" local="130813109720564256" remote="130814025600000000" Dst="0" />
+<file name="class.katakana.php" server="111.171.219.246" local="130813109720604258" remote="130814025600000000" Dst="0" />
+<file name="class.mail.php" server="111.171.219.246" local="130813109721344300" remote="130814025600000000" Dst="0" />
+<file name="class.minlength.php" server="111.171.219.246" local="130813109721374302" remote="130814025600000000" Dst="0" />
+<file name="class.noempty.php" server="111.171.219.246" local="130813109721464307" remote="130814025600000000" Dst="0" />
+<file name="class.nofalse.php" server="111.171.219.246" local="130813109722124345" remote="130814025600000000" Dst="0" />
+<file name="class.numeric.php" server="111.171.219.246" local="130813109723234408" remote="130814025600000000" Dst="0" />
+<file name="class.required.php" server="111.171.219.246" local="130813109723294412" remote="130814025600000000" Dst="0" />
+<file name="class.tel.php" server="111.171.219.246" local="130813109724044455" remote="130814025600000000" Dst="0" />
+<file name="class.url.php" server="111.171.219.246" local="130813109724074456" remote="130814025600000000" Dst="0" />
+<file name="class.zip.php" server="111.171.219.246" local="130813109724174462" remote="130814025600000000" Dst="0" />
+</dwsync>

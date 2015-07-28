@@ -1,0 +1,12 @@
+﻿@CHARSET "UTF-8";
+
+
+.page-title-container {
+	display : none;
+}
+
+#main {
+    background-image: none !important;
+    width : 300px;
+    margin: 100px auto 0 auto !important;
+}

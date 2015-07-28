@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-json-api-check-capabilities-endpoint.php" server="111.171.219.246" local="130813109407466347" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-core-endpoint.php" server="111.171.219.246" local="130813109408136386" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-core-modify-endpoint.php" server="111.171.219.246" local="130813109408166388" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-endpoint.php" server="111.171.219.246" local="130813109408296395" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-endpoint.php" server="111.171.219.246" local="130813109408726420" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-get-endpoint.php" server="111.171.219.246" local="130813109408826425" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-list-endpoint.php" server="111.171.219.246" local="130813109409446461" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-modify-endpoint.php" server="111.171.219.246" local="130813109409476462" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-delete-endpoint.php" server="111.171.219.246" local="130813109409576468" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-endpoint.php" server="111.171.219.246" local="130813109410276508" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-get-endpoint.php" server="111.171.219.246" local="130813109410296509" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-install-endpoint.php" server="111.171.219.246" local="130813109410426517" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-list-endpoint.php" server="111.171.219.246" local="130813109411106556" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-modify-endpoint.php" server="111.171.219.246" local="130813109411136557" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-sync-endpoint.php" server="111.171.219.246" local="130813109411196561" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-active-endpoint.php" server="111.171.219.246" local="130813109411866599" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-delete-endpoint.php" server="111.171.219.246" local="130813109411886600" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-endpoint.php" server="111.171.219.246" local="130813109412096612" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-get-endpoint.php" server="111.171.219.246" local="130813109412776651" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-install-endpoint.php" server="111.171.219.246" local="130813109412816653" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-list-endpoint.php" server="111.171.219.246" local="130813109412886658" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-modify-endpoint.php" server="111.171.219.246" local="130813109413596698" remote="130783843200000000" Dst="0" />
+<file name="class.jetpack-json-api-updates-status-endpoint.php" server="111.171.219.246" local="130813109413616699" remote="130783843200000000" Dst="0" />
+<file name="json-api-jetpack-endpoints.php" server="111.171.219.246" local="130813109414006722" remote="130783843200000000" Dst="0" />
+</dwsync>

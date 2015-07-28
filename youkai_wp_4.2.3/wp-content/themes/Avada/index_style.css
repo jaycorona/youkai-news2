@@ -1,0 +1,635 @@
+@CHARSET "UTF-8";
+
+/*Main*/
+body.home div#main {
+	background-image: url(/wp-content/themes/Avada/images/img/home/top_characters_bg.png);
+	background-repeat: no-repeat;
+	background-position:48% 110px; 
+	margin : 0 auto 0 auto;
+	width: 100%;
+	max-width: 1468px !important;
+	background-attachment:fixed;
+}
+
+body.home div#wrapper div#main div.avada-row {
+	margin-top: 380px;
+}
+
+@media screen and (min-height:742px){
+	body.home div#main {
+		background-size: inherit;
+		background-position:50% 110px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	body.home div#main {
+		background-position: 0% 0%; 
+		background-attachment: scroll;
+		background-size: contain;
+	}
+	body.home div#wrapper div#main div.avada-row div#sidebar {
+		margin-top: 5px;
+		margin-left:auto;
+		margin-right:auto;
+		width:101%;
+		max-width: 240px;
+		text-align: center;
+		float: none !important;
+	}
+	body.home div#wrapper div#main div.avada-row {
+		margin-top: 24%;;
+	}
+	body, #sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2 {
+		font-size: 15px;
+	}
+}
+@media screen and (max-width: 776px) {
+	body.home div#main {
+		background-position: 0% 0%; 
+		background-attachment: scroll;
+		background-size: contain;
+	}
+	.header-wrapper {
+  		height: 136px !important;
+	}
+}
+/*Home posts */
+div.post_img {
+	padding-bottom: 5px;
+}
+
+body.home .grid-layout{
+	width: 720px !important;
+	float: left !important;
+}
+
+.post_head_image {
+	width: 712px;
+	max-width: none;
+	
+}
+
+#public_site_block {
+	width: 352px;
+	
+}
+#youkai_world_block {
+	width: 712px;
+}
+
+body.home .grid-layout{
+	width: 720px !important;
+}
+body.home h2.post-title {
+	font-weight: bold !important;
+	width:100%;
+}
+body.home div.display_type_1 div.post-category img {
+	height: 21px !important;
+}
+body.home div.display_type_1 div.post_img {
+	float: left !important;
+	width: 250px !important;
+	padding-bottom: 5px !important;
+}
+body.home div.display_type_1 div.post-content {
+	float: left !important;
+	width: 60% !important;
+	padding-left: 10px !important;
+}
+body.home div.display_type_1 div.icons_area {
+	padding-left: 10px;
+  	width: 300px;
+  	float: left;
+	height:35px;
+}
+body.home div.display_type_1 div.post-category {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 100%;
+	float: left;
+}
+body.home div.display_type_1 div.post-date-youkai {
+	padding-top: 5px;
+	width: 100px;
+	float: left;
+}
+body.home div.display_type_1 div.post-new {
+	padding-top: 12px;
+	float: left;
+	width: 100px;
+}
+body.home div.display_type_2 div.post-content {
+	float: left;
+    padding: 20px 0 0 10px;
+    width: 97% !important;
+}
+body.home div.display_type_2 div.post_img {
+    /* float: left !important;
+   	width: 250px !important;*/
+   	padding-bottom: 5px !important;
+   	width: 100% !important;
+	margin: 0 auto;
+	text-align: center;
+}
+}
+body.home div.display_type_2 div.icons_area {
+	padding-left: 10px;
+  	width: 300px;
+  	float: left;
+}
+body.home div.display_type_2 h2 .post-title {
+	padding-top: 11px;
+	
+}
+body.home div.display_type_2 div.post-category {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 100%;
+	float: left;
+	font-size: 9px;
+}
+body.home div.display_type_2 div.post-date-youkai {
+	padding-top: 5px;
+	width: 100px;
+	float: left;
+}
+body.home div.display_type_2 div.post-new {
+	padding-top: 12px;
+	float: left;
+	width: 100px;
+}
+body.home div.display_type_2 div.icons_area {
+	width: 100%;
+	float: left;
+	margin-bottom: -35px;
+}
+body.home div.display_type_3 div.post_img {
+	display: none !important;
+}
+body.home div.display_type_3 div.youkai-content {
+	width: 100%;
+	float: left;
+	
+}
+body.home div.display_type_3 div.icons_area {
+  width: 100%;
+  float: left;
+  margin-bottom: -38px;
+  padding-left: 10px;
+}
+body.home div.display_type_3 div.post-category {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 70%;
+	float: left;
+	font-size: 9px;
+}
+body.home div.display_type_3 div.post-date-youkai {
+	padding-top: 10px;
+	width: 100px;
+	float: left;
+}
+body.home div.display_type_3 div.post-new {
+	padding-top: 18px;
+	float: left;
+	width: 100px;
+}
+body.home div.display_type_3 h2.post-title  {
+		width: 97% !important;
+		float: left;
+		
+	}
+body.home div.display_type_3 div.post-content {
+	float: left;
+    padding: 20px 0 0 10px;
+    width: 100% !important;
+}
+body.home div.display_type_4 div.post-content,
+body.home div.display_type_4 div.post-category,
+body.home div.display_type_4 div.post-new,
+body.home div.display_type_4 div.post-date-youkai,
+.meta-info {
+	display: none !important;
+}
+.display_type_4 .post_img {
+	padding: 0px;
+}
+
+@media screen and (min-width: 1024px) {
+	body.home .grid-layout .post, .timeline-layout .post,
+	body.home .type-post {
+		background-image: url(images/white-transparent.png);
+		background-repeat:repeat;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	body.home .type-post {
+		background-color: #ffffff;
+		filter: alpha(opacity=100);
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)";
+		-moz-opacity: 1;
+		opacity: 1;
+	}
+}
+body.home .timeline-layout .home_post_border_1 .post,
+body.home .grid-layout .home_post_border_1 .post,
+body.home .home_post_border_1 .type-post   {
+	border: 3px solid #009fe6 !important;
+}
+body.home .timeline-layout .home_post_border_2 .post,
+body.home .grid-layout .home_post_border_2 .post,
+body.home .home_post_border_2 .type-post    {
+	border: 3px solid #ff9900 !important;
+}
+body.home .home_post_border_1 .post-content h2,
+body.home #main .home_post_border_1 .type-post h2 a,
+body.home #main .home_post_border_1 .type-post h2 a:hover,
+body.home #main .home_post_border_1 .product .product_title {
+	color: hsl(199, 100%, 45%) !important;
+	color: #009fe6 !important;
+	
+	
+}
+body.home #main .home_post_border_1 .type-post h2 a:hover {
+	text-decoration: underline;
+}
+
+body.home .home_post_border_2 .post-content h2,
+body.home #main .home_post_border_2 .type-post h2 a,
+body.home #main .home_post_border_2 .type-post h2 a:hover,
+body.home #main .home_post_border_2 .product .product_title {
+	color: hsl(34, 84%, 46%) !important;
+	color: #ff9900 !important;
+	float: left;
+	
+}
+body.home #main .home_post_border_2 .type-post h2 a:hover {
+	text-decoration: underline;
+}
+body.home .grid-layout .type-post {
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+	margin-left: 0px !important;
+	margin-right: 0 !important;
+}
+body.home div.display_type_2 div.youkai-content {
+	width: 98%;
+  	float: left
+}
+
+body.home .grid-layout .type-post .meta-info {
+	margin-bottom: 0px !important;
+}
+body.home .portfolio-wrapper.isotope {
+	overflow: none !important;
+}
+/*Sidebar*/
+body.home div#wrapper div#main div.avada-row div#sticker{
+	width:240px;
+	max-width: 101%;
+} 
+body.home div#wrapper div#main div.avada-row div#sidebar {
+	margin-top: 14px;
+}
+body.home .grid-layout .post-content-container {
+	padding: 11px !important;
+	
+}
+#content {
+	width: 720px;
+	margin-bottom: 0;
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* @media screen and (max-width: 768px) {
+	#content {
+		width: 310px !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+ */
+#loading {
+	display: block;
+}
+#loading img{
+	margin : 0 auto;
+	display: block;
+	height:33px;
+}
+
+#loadingleft {
+	display: block;
+}
+#loadingleft img{
+	margin : 0 auto;
+	display: block;
+	height:33px;
+}
+#loadingright {
+	display: block;
+}
+#loadingright img{
+	margin : 0 auto;
+	display: block;
+	height:33px;
+}
+#show_more_public_img, 
+#show_more_youkai_img{
+	display:none;
+	cursor: pointer;
+}
+footer.footer-area div.footer-widget-col div.textwidget div a img {
+	margin-top: 8px !important;
+}
+footer.footer-area div.avada-row {
+	max-width: 852px !important;
+}
+@media screen and (max-width: 775px) {
+		
+	#public_site_container {
+		
+	}
+	
+}
+
+@media screen and (max-width: 775px) {
+	#wrapper #main{
+		padding: 0;
+		
+	}
+	.grid-layout {
+		margin : 0 auto !important;
+		align: center;
+		
+	}
+	
+	#posts-container {
+		width : 100%;
+		
+		
+	}
+	
+	.type-post {
+		margin-left: 5px !important;
+		margin-right: 5px !important;
+		
+	}
+	
+	#public_site_container {
+		padding-left: 0px !important;
+		
+	}
+	
+	#youkai_world_container {
+		padding-left: 0px !important;
+		
+	}
+	footer.footer-area div.footer-widget-col div.textwidget div a img {
+		margin-top: 8px !important;
+		margin-left:5px !important;
+		
+		
+		
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+	/*div.post-new img {
+		width: 33px;
+		height: 11px;
+		padding-left: 8px;
+	}*/
+	div.post-category img{
+		width: 43px;
+		height: 11px;
+	}
+	
+	.post-date-youkai {
+		padding-left: 0px !important;
+	}
+	.single-line-meta {
+		-webkit-transform:scale(0.75);
+	}
+	
+	div.display_type_1 h2.post-title,
+	div.display_type_2 h2.post-title,
+	div.display_type_3 h2.post-title,
+	div.display_type_4 h2.post-title
+	{
+		line-height:15px !important;
+	}
+	
+	body.home div.display_type_3 div.post-date-youkai {
+		padding-left:0px;
+	}
+	body.home div.display_type_3 h2.post-title  {
+		width: 97% !important;
+		float: left;
+		
+	}
+}
+
+
+
+@media screen and (max-width:775px) {
+	body.home .grid-layout{
+		width: 300px !important;
+		font-size: 10px;
+		
+	}
+	
+	
+	body.home .home_post_border_1 .post-content h2,
+	body.home #main .home_post_border_1 .type-post h2 a,
+	body.home #main .home_post_border_1 .type-post h2 a:hover,
+	body.home #main .home_post_border_1 .product .product_title {
+		color: hsl(199, 100%, 45%) !important;
+		color: #009fe6 !important;
+		line-height:180%;
+		}
+	
+	body.home .home_post_border_2 .post-content h2,
+	body.home #main .home_post_border_2 .type-post h2 a,
+	body.home #main .home_post_border_2 .type-post h2 a:hover,
+	body.home #main .home_post_border_2 .product .product_title {
+		color: hsl(34, 84%, 46%) !important;
+		color: #ff9900 !important;
+		font-size: 16px !important;
+		line-height:180%;
+		float-right;
+	}
+	
+	.post_head_image {
+		width: 300px;
+		
+		
+		
+	}
+	
+	#public_site_block {
+		width: 150px;
+		
+	}
+	#youkai_world_block {
+		width: 300px;
+		
+		
+	}
+	
+	
+	
+	#public_site_container {
+		padding-left: 0px !important;
+		font-size: 7px;
+		
+	}
+	
+	#youkai_world_container {
+		padding-left: 10px !important;
+		
+		
+	}
+	/*top image*/
+	body.home div.display_type_1 div.post_img  {
+		width: 100% !important;
+		text-align: center;
+	}
+	body.home div.display_type_1 div.post-content {
+		float: right;
+		width: 95% !important;
+	}
+	body.home div.display_type_1 h2 .post-title {
+		padding-top: 11px;
+		
+	}
+	body.home div.display_type_1 div.post-category {
+		padding-top: 5px;
+		padding-bottom: 5px;
+		width: 100%;
+		float: left;
+		font-size: 9px;
+	}
+	
+	body.home div.display_type_1 div.post-category img {
+		width: 43px;
+	}
+	body.home div.display_type_1 div.post-date-youkai {
+		padding-top: 5px;
+		width: 100px;
+		float: left;
+		font-size: 14px;
+}
+	body.home div.display_type_1 div.post-new {
+		padding-top: 12px;
+		float: left;
+		width: 100px;		
+	}
+	body.home div.display_type_1 div.icons_area {
+		width: 100% !important;
+		
+	}
+	/*top image alignment*/
+	body.home div.display_type_2 div.icons_area {
+		width: 100% !important;
+		padding-left:10px;
+	
+	}
+	body.home div.display_type_2 div.post-date-youkai {
+		padding-top: 5px;
+		width: 100px;
+		float: left;
+		font-size:14px;
+	}
+	
+	body.home div.display_type_2 div.post-new {
+	padding-top: 12px;
+	float: left;
+	width: 100px;
+	}
+	body.home div.display_type_3 div.post-category,
+	body.home div.display_type_3 h2.post-title  {
+		width: 95% !important;
+		
+	}
+	body.home div.display_type_3 div.icons_area {
+		width: 100% !important;
+		margin-bottom: -30px;
+	}
+	
+	body.home div.display_type_3 div.post-date-youkai {
+		padding-top: 5px;
+		width: 100px;
+		float: left;
+		font-size: 14px;
+	}
+	body.home div.display_type_3 div.post-new {
+	padding-top: 12px;
+	float: left;
+	width: 100px;
+	}
+	#content {
+		width: 313px !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	/*Sidebar*/
+	
+	body.home div#wrapper div#main div.avada-row div#sidebar {
+		margin-top: 5px;
+		margin-left:auto;
+		margin-right:auto;
+		width:101%;
+		max-width: 240px;
+		
+	}
+	
+	
+	body.home div#wrapper div#main div.avada-row {
+		margin-top: 24%;;
+	}
+	body.home div.display_type_3 div.youkai-content {
+		width: 100%;
+  		float: left;
+		
+	}
+	body.home div.display_type_3 div.post-category {
+		padding-top: 3px;
+		padding-bottom: -1px;
+		width: 52%;
+		float: right;
+		font-size: 9px;
+	}
+	
+	#main h2 {
+		color: #333;
+		margin: 0 0 20px;
+		font: 18px/20px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
+	}
+	
+	body.home .grid-layout .post-content-container {
+		padding: 3px !important;
+		
+	}
+	
+	
+	body.home div.display_type_2 div.post-content {
+		float: left;
+		width: 93% !important;
+		margin-left: 6px;
+	}
+	#main{
+	background-image: url(/wp-content/themes/Avada/images/img/home/top_characters_bg.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+		margin : 0 auto 0 auto;
+		width: 100%;
+		max-width: 1468px !important;
+	}
+}
+

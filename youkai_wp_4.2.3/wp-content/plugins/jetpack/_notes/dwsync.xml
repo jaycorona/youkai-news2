@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".svnignore" server="111.171.219.246" local="130813109286129407" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-admin.php" server="111.171.219.246" local="130813109308970714" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-autoupdate.php" server="111.171.219.246" local="130813109309170725" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-bbpress-json-api-compat.php" server="111.171.219.246" local="130813109309700756" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-cli.php" server="111.171.219.246" local="130813109310870823" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-client-server.php" server="111.171.219.246" local="130813109311100836" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-client.php" server="111.171.219.246" local="130813109311300847" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-data.php" server="111.171.219.246" local="130813109311750873" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-debugger.php" server="111.171.219.246" local="130813109313160954" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-error.php" server="111.171.219.246" local="130813109313190955" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-heartbeat.php" server="111.171.219.246" local="130813109313320963" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-ixr-client.php" server="111.171.219.246" local="130813109314081006" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-modules-list-table.php" server="111.171.219.246" local="130813109314641038" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-network-sites-list-table.php" server="111.171.219.246" local="130813109314681040" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-options.php" server="111.171.219.246" local="130813109315541090" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-network.php" server="111.171.219.246" local="130813109315571091" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-post-images.php" server="111.171.219.246" local="130813109315871109" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-signature.php" server="111.171.219.246" local="130813109316381138" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-sync.php" server="111.171.219.246" local="130813109317201185" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-twitter-cards.php" server="111.171.219.246" local="130813109317241187" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-user-agent.php" server="111.171.219.246" local="130813109318731272" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack-xmlrpc-server.php" server="111.171.219.246" local="130813109319421312" remote="130783842600000000" Dst="0" />
+<file name="class.jetpack.php" server="111.171.219.246" local="130813109321571435" remote="130783842600000000" Dst="0" />
+<file name="class.json-api-endpoints.php" server="111.171.219.246" local="130813109321751445" remote="130783842600000000" Dst="0" />
+<file name="class.json-api.php" server="111.171.219.246" local="130813109321911454" remote="130783842600000000" Dst="0" />
+<file name="class.media-extractor.php" server="111.171.219.246" local="130813109322501488" remote="130783842600000000" Dst="0" />
+<file name="class.media-summary.php" server="111.171.219.246" local="130813109323741559" remote="130783842600000000" Dst="0" />
+<file name="class.photon.php" server="111.171.219.246" local="130813109323791562" remote="130783842600000000" Dst="0" />
+<file name="composer.json" server="111.171.219.246" local="130813109323921569" remote="130783842600000000" Dst="0" />
+<file name="functions.compat.php" server="111.171.219.246" local="130813109344412741" remote="130783842600000000" Dst="0" />
+<file name="functions.gallery.php" server="111.171.219.246" local="130813109344492746" remote="130783842600000000" Dst="0" />
+<file name="functions.photon.php" server="111.171.219.246" local="130813109345432799" remote="130783842600000000" Dst="0" />
+<file name="functions.opengraph.php" server="111.171.219.246" local="130813109345482802" remote="130783842600000000" Dst="0" />
+<file name="jetpack.php" server="111.171.219.246" local="130813109393595554" remote="130783843200000000" Dst="0" />
+<file name="json-api-config.php" server="111.171.219.246" local="130813109394535608" remote="130783843200000000" Dst="0" />
+<file name="json-endpoints.php" server="111.171.219.246" local="130813109417246907" remote="130783843200000000" Dst="0" />
+<file name="locales.php" server="111.171.219.246" local="130813109495221367" remote="130783843200000000" Dst="0" />
+<file name="require-lib.php" server="111.171.219.246" local="130813109682502079" remote="130783843200000000" Dst="0" />
+<file name="readme.txt" server="111.171.219.246" local="130813109683262122" remote="130783843200000000" Dst="0" />
+<file name="uninstall.php" server="111.171.219.246" local="130813109696622886" remote="130783843200000000" Dst="0" />
+<file name="wpml-config.xml" server="111.171.219.246" local="130813109699983078" remote="130783843200000000" Dst="0" />
+</dwsync>

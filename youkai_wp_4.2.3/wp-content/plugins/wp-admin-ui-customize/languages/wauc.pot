@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Admin UI Customize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-03 14:57+0900\n"
+"PO-Revision-Date: 2013-10-03 14:57+0900\n"
+"Last-Translator: gqevu6bsiz <gqevu6bsiz@gmail.com>\n"
+"Language-Team: gqevu6bsiz <gqevu6bsiz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-admin-ui-customize.php:4
+msgid "An excellent plugin to customize the management screens."
+msgstr ""
+
+#: wp-admin-ui-customize.php:121
+#: wp-admin-ui-customize.php:157
+#: inc/reset_userrole.php:15
+msgid "Reset User Roles"
+msgstr ""
+
+#: wp-admin-ui-customize.php:148
+#: inc/setting_site.php:16
+msgid "Site Settings"
+msgstr ""
+
+#: wp-admin-ui-customize.php:149
+#: inc/setting_admin_general.php:16
+msgid "General Screen Settings"
+msgstr ""
+
+#: wp-admin-ui-customize.php:151
+#: inc/setting_admin_bar_menu.php:17
+msgid "Admin Bar Menu"
+msgstr ""
+
+#: wp-admin-ui-customize.php:152
+#: inc/setting_sidemenu.php:19
+msgid "Side Menu"
+msgstr ""
+
+#: wp-admin-ui-customize.php:153
+#: inc/setting_removemtabox.php:17
+msgid "Remove meta box"
+msgstr ""
+
+#: wp-admin-ui-customize.php:154
+#: inc/setting_post_add_edit.php:16
+msgid "Add New Post and Edit Post Screen Setting"
+msgstr ""
+
+#: wp-admin-ui-customize.php:155
+#: inc/setting_appearance_menus.php:15
+msgid "Appearance Menus Screen Setting"
+msgstr ""
+
+#: wp-admin-ui-customize.php:156
+#: inc/setting_loginscreen.php:27
+msgid "Login Screen"
+msgstr ""
+
+#: wp-admin-ui-customize.php:292
+#, php-format
+msgid "Authority to apply the setting is not selected. <a href=\"%s\">From here</a>, please select the permissions you want to set."
+msgstr ""
+
+#: wp-admin-ui-customize.php:317
+msgid "Apply user roles"
+msgstr ""
+
+#: wp-admin-ui-customize.php:542
+#: wp-admin-ui-customize.php:664
+msgid "Sub Menus"
+msgstr ""
+
+#: inc/list_variables.php:17
+#: inc/setting_admin_bar_menu.php:24
+#: inc/setting_admin_general.php:125
+#: inc/setting_admin_general.php:148
+#: inc/setting_loginscreen.php:64
+#: inc/setting_loginscreen.php:77
+#: inc/setting_loginscreen.php:89
+#: inc/setting_loginscreen.php:117
+#: inc/setting_loginscreen.php:129
+#: inc/setting_sidemenu.php:26
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/list_variables.php:42
+msgid "Blog name of logged in."
+msgstr ""
+
+#: inc/list_variables.php:51
+msgid "Blog URL of logged in."
+msgstr ""
+
+#: inc/list_variables.php:95
+msgid "In your case."
+msgstr ""
+
+#: inc/reset_userrole.php:23
+msgid "Applied user roles"
+msgstr ""
+
+#: inc/reset_userrole.php:33
+msgid "You want to reset the user roles?"
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:18
+#: inc/setting_sidemenu.php:20
+msgid "Please change the menu by drag and drop."
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:19
+#: inc/setting_sidemenu.php:22
+msgid "Notice: Please do not place the same multiple menu slug."
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:20
+msgid "Can be more than one custom menu."
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:24
+#: inc/setting_admin_general.php:125
+#: inc/setting_admin_general.php:148
+#: inc/setting_loginscreen.php:64
+#: inc/setting_loginscreen.php:77
+#: inc/setting_loginscreen.php:89
+#: inc/setting_loginscreen.php:117
+#: inc/setting_loginscreen.php:129
+#: inc/setting_sidemenu.php:26
+msgid "Available Shortcodes"
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:190
+#: inc/setting_sidemenu.php:21
+#: inc/setting_sidemenu.php:42
+msgid "Menu items that can be added"
+msgstr ""
+
+#: inc/setting_admin_bar_menu.php:258
+#: inc/setting_admin_general.php:181
+#: inc/setting_appearance_menus.php:90
+#: inc/setting_dashboard.php:176
+#: inc/setting_default.php:122
+#: inc/setting_loginscreen.php:152
+#: inc/setting_post_add_edit.php:101
+#: inc/setting_removemtabox.php:184
+#: inc/setting_sidemenu.php:225
+#: inc/setting_site.php:160
+msgid "Reset all settings?"
+msgstr ""
+
+#: inc/setting_admin_general.php:34
+msgid "Notifications"
+msgstr ""
+
+#: inc/setting_admin_general.php:40
+msgid "WordPress core update notice"
+msgstr ""
+
+#: inc/setting_admin_general.php:46
+#: inc/setting_admin_general.php:57
+#: inc/setting_admin_general.php:68
+msgid "Not notified"
+msgstr ""
+
+#: inc/setting_admin_general.php:51
+msgid "Plugin update notice"
+msgstr ""
+
+#: inc/setting_admin_general.php:62
+msgid "Theme update notice"
+msgstr ""
+
+#: inc/setting_admin_general.php:78
+msgid "Screen Options and Help Tab"
+msgstr ""
+
+#: inc/setting_admin_general.php:117
+#: inc/setting_loginscreen.php:123
+msgid "Footer text"
+msgstr ""
+
+#: inc/setting_admin_general.php:142
+#: inc/setting_loginscreen.php:111
+msgid "CSS file to load"
+msgstr ""
+
+#: inc/setting_admin_general.php:155
+msgid "Title tag for Admin screen"
+msgstr ""
+
+#: inc/setting_admin_general.php:160
+msgid "Remove \"Wordpress\" from the title tag of the Admin screen"
+msgstr ""
+
+#: inc/setting_appearance_menus.php:40
+msgid "Create a new menu"
+msgstr ""
+
+#: inc/setting_appearance_menus.php:46
+#: inc/setting_appearance_menus.php:64
+msgid "This is useful when you want to use only the menus have been created."
+msgstr ""
+
+#: inc/setting_dashboard.php:33
+msgid "Meta boxes"
+msgstr ""
+
+#: inc/setting_dashboard.php:40
+msgid "Welcome Panel"
+msgstr ""
+
+#: inc/setting_dashboard.php:143
+msgid "Other"
+msgstr ""
+
+#: inc/setting_dashboard.php:150
+msgid "Meta box movement restriction"
+msgstr ""
+
+#: inc/setting_dashboard.php:155
+msgid "Lock meta box positions"
+msgstr ""
+
+#: inc/setting_default.php:16
+msgid "Customize the UI of the management screen for all users."
+msgstr ""
+
+#: inc/setting_default.php:17
+msgid "Please select the user roles that all settings will apply to."
+msgstr ""
+
+#: inc/setting_default.php:18
+msgid "Please use the Multiple Add-on If you want settings on User role basis."
+msgstr ""
+
+#: inc/setting_loginscreen.php:16
+msgid "Login Screen Settings"
+msgstr ""
+
+#: inc/setting_loginscreen.php:25
+msgid "Is not possible to check the login form if you do not log out in the case of MultiSite."
+msgstr ""
+
+#: inc/setting_loginscreen.php:27
+msgid "Show Login Screen"
+msgstr ""
+
+#: inc/setting_loginscreen.php:51
+msgid "Login Form"
+msgstr ""
+
+#: inc/setting_loginscreen.php:58
+msgid "The link after clicking on the logo"
+msgstr ""
+
+#: inc/setting_loginscreen.php:71
+msgid "Logo Title"
+msgstr ""
+
+#: inc/setting_loginscreen.php:83
+msgid "Logo Image path"
+msgstr ""
+
+#: inc/setting_post_add_edit.php:41
+msgid "Allow people to post comments on new articles when hide to discussion of metabox"
+msgstr ""
+
+#: inc/setting_post_add_edit.php:48
+#: inc/setting_removemtabox.php:59
+#: inc/setting_removemtabox.php:102
+msgid "Notice: If hide the Discussion on metabox, comments does not display of Add New Post on apply user role."
+msgstr ""
+
+#: inc/setting_post_add_edit.php:49
+msgid "Please select if you want to display the comments on Site."
+msgstr ""
+
+#: inc/setting_post_add_edit.php:50
+#, php-format
+msgid "However, this will follow the setting of %s."
+msgstr ""
+
+#: inc/setting_post_add_edit.php:52
+#, php-format
+msgid "Please select the %s"
+msgstr ""
+
+#: inc/setting_post_add_edit.php:78
+msgid "Only appears when you have settings to the default permalink."
+msgstr ""
+
+#: inc/setting_removemtabox.php:18
+msgid "Please update or add a \"post\" and a \"page\" to load the available meta boxes."
+msgstr ""
+
+#: inc/setting_removemtabox.php:41
+#: inc/setting_removemtabox.php:84
+#: inc/setting_removemtabox.php:136
+msgid "Could not read the meta box."
+msgstr ""
+
+#: inc/setting_removemtabox.php:42
+#: inc/setting_removemtabox.php:85
+#: inc/setting_removemtabox.php:137
+#, php-format
+msgid "Meta boxes will be loaded automatically when you Edit %s."
+msgstr ""
+
+#: inc/setting_removemtabox.php:61
+#: inc/setting_removemtabox.php:104
+msgid "Please set from here if you want to view the comments on screen."
+msgstr ""
+
+#: inc/setting_sidemenu.php:21
+#, php-format
+msgid "New plugin menus will be added to the <strong>%s</strong>."
+msgstr ""
+
+#: inc/setting_sidemenu.php:107
+msgid "Current menu"
+msgstr ""
+
+#: inc/setting_site.php:48
+#: inc/setting_site.php:61
+#: inc/setting_site.php:74
+#: inc/setting_site.php:87
+#: inc/setting_site.php:100
+msgid "Tag to be output"
+msgstr ""
+
+#: inc/setting_site.php:60
+msgid "Please display when using the Windows Live Writer."
+msgstr ""
+
+#: inc/setting_site.php:73
+msgid "Information of XML-rpc"
+msgstr ""
+
+#: inc/setting_site.php:86
+msgid "Sitewide feed"
+msgstr ""
+
+#: inc/setting_site.php:99
+msgid "Extra feed"
+msgstr ""
+
+#: inc/setting_site.php:127
+msgid "Hide the Admin bar on the front end"
+msgstr ""
+
+#: inc/setting_site.php:127
+msgid "Apply WP Admin UI Customize settings on the front end admin bar also"
+msgstr ""
+

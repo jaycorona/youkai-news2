@@ -1,0 +1,178 @@
+/* layout */
+
+
+#poststuff #post-body.columns-2 {
+	margin-right: 400px;
+}
+#post-body.columns-2 #postbox-container-1 {
+	margin-right: -400px;
+	width: 380px;
+}
+
+#wauc_setting_admin_bar_menu #poststuff #post-body.columns-2 {
+	margin-right: 50%;
+}
+#wauc_setting_admin_bar_menu #post-body.columns-2 #postbox-container-1 {
+	margin-right: -100%;
+	width: 98%;
+}
+
+#wauc_setting_sidemenu #poststuff #post-body {
+	margin-right: auto;
+	margin-left: 500px;
+}
+#wauc_setting_sidemenu #poststuff #post-body #postbox-container-1 {
+	margin-right: auto;
+	width: 100%;
+}
+#wauc_setting_sidemenu #poststuff #post-body #postbox-container-2 {
+	width: 480px;
+	margin-left: -500px
+}
+.postbox-container .postbox .hndle {
+	cursor: default; 	
+}
+
+
+
+
+
+
+.postbox-container #donationbox {
+	background: #87BCE4;
+	border: 3px solid #227499;
+}
+.postbox-container #donationbox .inside {
+	padding: 6px 10px 10px 10px;
+}
+.postbox-container #donationbox .inside .donation_memo {
+	background: #FFF8D9;
+	padding: 2px 10px;
+}
+
+#list_variables {
+	display: none;
+}
+.list_variables_wrap {
+	padding: 16px 0 0 0;
+}
+
+
+
+/* sidemenu */
+
+#wauc_setting_sidemenu .postbox .inside {
+	padding: 10px;
+}
+#wauc_setting_sidemenu .postbox .inside .widget-placeholder {
+	width: auto;
+}
+#wauc_setting_sidemenu .postbox .inside .widget .widget-top .widget-title .in-widget-title {
+	opacity: 0.7;
+	font-weight: normal;
+}
+#wauc_setting_sidemenu .postbox .inside .widget .widget-inside .settings {
+	margin-bottom: 12px;
+}
+#wauc_setting_sidemenu .postbox .inside .widget .widget-inside .submenu {
+	padding: 5px 5px 20px 5px;
+	border: 1px solid #DFDFDF;
+}
+#wauc_setting_sidemenu .postbox .inside .widget .widget-inside input.regular-text {
+	width: 300px;
+}
+
+#wauc_setting_sidemenu #can_menus .postbox .inside .widget .widget-top .widget-title-action,
+#wauc_setting_sidemenu #setting_menus .postbox .inside .widget.separator .widget-top .widget-title-action,
+#wauc_setting_sidemenu #setting_menus .postbox .inside .widget .widget-inside .submenu .widget .widget-inside .submenu {
+	display: none;
+}
+
+#wauc_setting_sidemenu #can_menus .postbox .inside .widget {
+	width: 170px;
+	float: left;
+	margin: 0 4px 4px 0;
+}
+
+#wauc_setting_sidemenu #setting_menus .postbox .inside .settings ul.display_roles {
+	display: block;
+}
+#wauc_setting_sidemenu #setting_menus .postbox .inside .settings ul.display_roles li {
+	display: inline-block;
+	color: #DDD;
+	margin-right: 6px;
+}
+#wauc_setting_sidemenu #setting_menus .postbox .inside .settings ul.display_roles li.has_cap {
+	font-weight: bold;
+	color: #000;
+}
+
+
+
+
+/* admin_bar */
+
+
+#wauc_setting_admin_bar_menu {}
+#wauc_setting_admin_bar_menu .postbox .inside {
+	padding: 10px;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget-placeholder {
+	width: auto;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget .widget-top .widget-title .in-widget-title {
+	opacity: 0.7;
+	font-weight: normal;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget .widget-inside .submenu {
+	padding: 5px 5px 20px 5px;
+	border: 1px solid #DFDFDF;
+	margin: 8px 0 0 0;
+}
+
+#wauc_setting_admin_bar_menu .postbox .inside .widget .widget-top {
+	height: auto;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget .widget-top .widget-title h4 {
+	line-height: 20px;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget.wp-logo .widget-top .widget-title h4 .ab-icon,
+#wauc_setting_admin_bar_menu .postbox .inside .widget.updates .widget-top .widget-title h4 .ab-icon,
+#wauc_setting_admin_bar_menu .postbox .inside .widget.comments .widget-top .widget-title h4 .ab-icon,
+#wauc_setting_admin_bar_menu .postbox .inside .widget.new-content .widget-top .widget-title h4 .ab-icon {
+	width: 20px;
+	height: 20px;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	margin: 0 2px 0 0;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget.wp-logo .widget-top .widget-title h4 .ab-icon {
+	background-position: 0 -104px;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget.updates .widget-top .widget-title h4 .ab-icon {
+	background-position: -2px -159px;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget.comments .widget-top .widget-title h4 .ab-icon {
+	background-position: -2px -135px;
+}
+#wauc_setting_admin_bar_menu .postbox .inside .widget.new-content .widget-top .widget-title h4 .ab-icon {
+	background-position: -2px -202px;
+}
+
+
+#wauc_setting_admin_bar_menu #can_menus .postbox .inside .widget .widget-top .widget-title-action,
+#wauc_setting_admin_bar_menu .postbox .inside .widget .widget-inside .submenu .widget .widget-inside .submenu {
+	display: none;
+}
+
+
+#wauc_setting_admin_bar_menu .columns-1 .postbox .inside h3 {
+	cursor: default;
+	border-bottom: none;
+}
+#wauc_setting_admin_bar_menu .columns-1 .postbox .inside .widget {
+	width: 170px;
+	float: left;
+	margin: 0 4px 4px 0;
+}

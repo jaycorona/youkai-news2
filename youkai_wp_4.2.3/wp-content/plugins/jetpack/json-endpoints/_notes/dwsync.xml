@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.wpcom-json-api-comment-endpoint.php" server="111.171.219.246" local="130813109394575610" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-delete-media-endpoint.php" server="111.171.219.246" local="130813109394645614" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-delete-media-v1-1-endpoint.php" server="111.171.219.246" local="130813109395275650" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-comment-endpoint.php" server="111.171.219.246" local="130813109395295651" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-media-endpoint.php" server="111.171.219.246" local="130813109395405658" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-media-v1-1-endpoint.php" server="111.171.219.246" local="130813109396045694" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-post-endpoint.php" server="111.171.219.246" local="130813109396065695" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-post-v1-1-endpoint.php" server="111.171.219.246" local="130813109396175702" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-taxonomies-endpoint.php" server="111.171.219.246" local="130813109396985748" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-site-endpoint.php" server="111.171.219.246" local="130813109397015750" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-get-taxonomy-endpoint.php" server="111.171.219.246" local="130813109397105755" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-comments-endpoint.php" server="111.171.219.246" local="130813109397855798" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-embeds-endpoint.php" server="111.171.219.246" local="130813109397875799" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-media-endpoint.php" server="111.171.219.246" local="130813109397985805" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-media-v1-1-endpoint.php" server="111.171.219.246" local="130813109398735848" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-posts-endpoint.php" server="111.171.219.246" local="130813109398765850" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-posts-v1-1-endpoint.php" server="111.171.219.246" local="130813109399005864" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-shortcodes-endpoint.php" server="111.171.219.246" local="130813109399455889" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-list-users-endpoint.php" server="111.171.219.246" local="130813109399615898" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-menus-v1-1-endpoint.php" server="111.171.219.246" local="130813109400375942" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-post-endpoint.php" server="111.171.219.246" local="130813109400635957" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-post-v1-1-endpoint.php" server="111.171.219.246" local="130813109401486005" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-publicize-endpoint.php" server="111.171.219.246" local="130813109401586011" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-render-embed-endpoint.php" server="111.171.219.246" local="130813109402266050" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-render-embed-reversal-endpoint.php" server="111.171.219.246" local="130813109402286051" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-render-endpoint.php" server="111.171.219.246" local="130813109402456061" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-render-shortcode-endpoint.php" server="111.171.219.246" local="130813109402866084" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-sharing-buttons-endpoint.php" server="111.171.219.246" local="130813109403176102" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-site-settings-endpoint.php" server="111.171.219.246" local="130813109403786137" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-taxonomy-endpoint.php" server="111.171.219.246" local="130813109403956147" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-comment-endpoint.php" server="111.171.219.246" local="130813109404456175" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-media-endpoint.php" server="111.171.219.246" local="130813109404596183" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-media-v1-1-endpoint.php" server="111.171.219.246" local="130813109405026208" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-post-endpoint.php" server="111.171.219.246" local="130813109405916259" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-post-v1-1-endpoint.php" server="111.171.219.246" local="130813109406096269" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-post-v1-2-endpoint.php" server="111.171.219.246" local="130813109406326282" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-update-taxonomy-endpoint.php" server="111.171.219.246" local="130813109406806310" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-upload-media-endpoint.php" server="111.171.219.246" local="130813109406936317" remote="130783843200000000" Dst="0" />
+<file name="class.wpcom-json-api-upload-media-v1-1-endpoint.php" server="111.171.219.246" local="130813109407356341" remote="130783843200000000" Dst="0" />
+</dwsync>
